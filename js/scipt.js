@@ -1,3 +1,6 @@
+// File: script.js
+// Description: Handles login actions, password toggle, and page navigation.
+
 // Switch views
 function switchView(currentId, nextId) {
     const current = document.getElementById(currentId);
